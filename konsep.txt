@@ -1,0 +1,16 @@
+basic
+- class dan objek
+- property dan method
+- constructor
+- objek type
+- inheritence (pewarisan)
+- visibility / Access Modifiyer
+- setter dan getter
+- static method
+
+Advanced
+- Abstract dan interfacce
+- Interceptor
+- Object cloning
+- Callbacks dan closure
+- Namescpaces dan autoloading
